@@ -55,7 +55,7 @@
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
-      "value": "https://files.catbox.moe/h2ydge.jpg",
+      "value": "",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -75,7 +75,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254791950271",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
